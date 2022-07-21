@@ -1,0 +1,51 @@
+notes----
+
+e-school
+
+font-family----
+
+ 'Poppins';
+     400,500, 700
+
+     font-family: 'Poppins', sans-serif;
+
+'Roboto';
+      400,
+      font-family: 'Roboto', sans-serif;
+
+color-------
+bg: #F0FFF0;
+black :#000000; 
+green:#21B573;
+white
+hover:  #FD511A;
+
+header----
+
+banner-----
+   xxl-xl-lg       md           sm/col
+padding
+   35/65          35-65           
+   
+
+books
+courses
+others
+blog
+
+sign in
+
+
+layout define-----
+
+
+section define-----
+
+semantic markup----
+
+
+code comment----
+
+reuseable blocks
+
+
